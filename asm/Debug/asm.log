@@ -1,0 +1,3 @@
+﻿  Assembler.cpp
+C:\Users\79537\source\repos\asm\asm\Assembler.cpp(73): warning C4715: menu: значение возвращается не при всех путях выполнения
+  asm.vcxproj -> C:\Users\79537\source\repos\asm\Debug\asm.exe
